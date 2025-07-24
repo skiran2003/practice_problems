@@ -17,4 +17,3 @@ modify column gpa decimal;
 delete from students
 where id=1;
 
-use world;
