@@ -1,0 +1,182 @@
+[
+  {
+    "make": "MG",
+    "model": "Cyberster",
+    "type": "EV roadster",
+    "price_inr_lakh": 74.99,
+    "range_km": null,
+    "seating": 2,
+    "launch_date": "2025-07-25"
+  },
+  {
+    "make": "Mahindra",
+    "model": "BE 6",
+    "type": "EV crossover",
+    "price_inr_lakh": 18.90,
+    "range_km": 556,
+    "seating": null,
+    "launch_date": null
+  },
+  {
+    "make": "Mahindra",
+    "model": "XEV 9e",
+    "type": "EV SUV",
+    "price_inr_lakh": 21.90,
+    "range_km": 542,
+    "seating": 5,
+    "launch_date": "2025-04-09"
+  },
+  {
+    "make": "Renault",
+    "model": "Triber Facelift",
+    "type": "Petrol MPV",
+    "price_inr_lakh": 6.29,
+    "range_km": null,
+    "seating": 7,
+    "launch_date": "2025-07-24"
+  },
+  {
+    "make": "Suzuki",
+    "model": "Dzire (2025)",
+    "type": "Petrol sedan",
+    "price_inr_lakh": 6.79,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": "2024-11-11"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model Y (2025 Juniper)",
+    "type": "EV SUV",
+    "price_usd": 60000,
+    "range_km": 719,
+    "seating": 7,
+    "launch_date": "2025-03-10"
+  },
+  {
+    "make": "Infiniti",
+    "model": "QX80 (2025)",
+    "type": "Luxury SUV",
+    "price_usd": 82450,
+    "range_km": null,
+    "seating": 7,
+    "launch_date": "2025-07-25"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "EQS 450 EV",
+    "type": "Luxury EV sedan",
+    "price_usd": 107400,
+    "range_km": 628,
+    "seating": 5,
+    "launch_date": null
+  },
+  {
+    "make": "Kia",
+    "model": "K4 (2025)",
+    "type": "Compact sedan",
+    "price_usd": 21990,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": "2025-03-01"
+  },
+  {
+    "make": "XPeng",
+    "model": "X9 (2025)",
+    "type": "EV MPV",
+    "price_usd": null,
+    "range_km": 740,
+    "seating": null,
+    "launch_date": "2025-04-15"
+  },
+  {
+    "make": "Geely",
+    "model": "Galaxy L6 EM‑i",
+    "type": "Plug‑in Hybrid sedan",
+    "price_usd": 12300,
+    "range_km": 1320,
+    "seating": 5,
+    "launch_date": "2025-02-23"
+  },
+  {
+    "make": "MG",
+    "model": "M9",
+    "type": "Electric limousine",
+    "price_inr_lakh": 69.90,
+    "range_km": 548,
+    "seating": null,
+    "launch_date": null
+  },
+  {
+    "make": "Mahindra",
+    "model": "BE 6",
+    "type": "EV crossover",
+    "price_inr_lakh": 26.90,
+    "range_km": 682,
+    "seating": 5,
+    "launch_date": "2025-06-01"
+  },
+  {
+    "make": "Renault",
+    "model": "Triber Facelift",
+    "type": "Petrol MPV",
+    "price_inr_lakh": 9.16,
+    "range_km": null,
+    "seating": 7,
+    "launch_date": null
+  },
+  {
+    "make": "Tata",
+    "model": "Harrier EV",
+    "type": "EV SUV",
+    "price_inr_lakh": null,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": null
+  },
+  {
+    "make": "MG",
+    "model": "Windsor EV",
+    "type": "EV SUV/hatch",
+    "price_inr_lakh": 14.00,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": null
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV 3XO",
+    "type": "Petrol SUV",
+    "price_inr_lakh": 9.11,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": null
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV700",
+    "type": "Petrol SUV",
+    "price_inr_lakh": 17.03,
+    "range_km": null,
+    "seating": 7,
+    "launch_date": null
+  },
+  {
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "type": "Hybrid SUV",
+    "price_inr_lakh": 13.33,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": null
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "type": "Petrol SUV",
+    "price_inr_lakh": 13.06,
+    "range_km": null,
+    "seating": 5,
+    "launch_date": null
+  }
+]
